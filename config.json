@@ -1,0 +1,40 @@
+{
+	"api_key": "192c860e-47ab-11eb-8025-0242ac130002-192c869a-47ab-11eb-8025-0242ac130002",
+	"weather_variables": [
+		"airTemperature",
+		"airTemperature100m",
+		"airTemperature80m",
+		"cloudCover",
+		"currentSpeed",
+		"gust",
+		"humidity",
+		"pressure",
+		"precipitation",
+		"visibility",
+		"windDirection",
+		"windDirection100m",
+		"windDirection20m",
+		"windDirection30m",
+		"windDirection40m",
+		"windDirection50m",
+		"windDirection80m",
+		"windSpeed",
+		"windSpeed100m",
+		"windSpeed20m",
+		"windSpeed30m",
+		"windSpeed40m",
+		"windSpeed50m",
+		"windSpeed80m"
+	],
+	"target_dates": [
+		"2020-03-09",
+		"2020-05-18",
+		"2020-07-20",
+		"2020-10-12",
+		"2020-12-14"
+	],
+	"models": {
+		"models_dir": "models",
+		"models_list": []
+	}
+}
